@@ -1,0 +1,5 @@
+IP: 158.160.77.25;
+name_taski: https://chokavo.ddns.net/;
+name_kittygram: https://kittygram-vit.ddns.net/;
+login: supermario;
+password: 7172vit7172;
